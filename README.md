@@ -1,16 +1,14 @@
 # quadbtech
 
-A new Flutter project.
+App that show List of User from the API 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### How to run the app 
+The program, TVshow.apk, is only available for Android devices. Try installing on an Android smartphone.
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshot and Videos
+The APP screen image and video are provided in the Screenshots and Videos folder.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is basic and user-friendly.
+.
